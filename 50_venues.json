@@ -1,0 +1,447 @@
+{
+    "results": [
+        {
+            "fsq_id": "5bdf1dccb25fee002c2dd88a",
+            "categories": [
+                {
+                    "id": 13354,
+                    "name": "Theme Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 278,
+            "geocodes": {
+                "main": {
+                    "latitude": 52.165224,
+                    "longitude": 4.483488
+                }
+            },
+            "link": "/v3/places/5bdf1dccb25fee002c2dd88a",
+            "location": {
+                "country": "NL",
+                "cross_street": "",
+                "formatted_address": "2312 AV Leiden",
+                "locality": "Leiden",
+                "postcode": "2312 AV",
+                "region": "South Holland"
+            },
+            "name": "Paco Ciao",
+            "related_places": {},
+            "timezone": "Europe/Amsterdam"
+        },
+        {
+            "fsq_id": "4da5a7565da3d30fafbced8f",
+            "categories": [
+                {
+                    "id": 13018,
+                    "name": "Pub",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13034,
+                    "name": "Café",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13065,
+                    "name": "Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 317,
+            "geocodes": {
+                "main": {
+                    "latitude": 52.163756,
+                    "longitude": 4.485941
+                },
+                "roof": {
+                    "latitude": 52.163756,
+                    "longitude": 4.485941
+                }
+            },
+            "link": "/v3/places/4da5a7565da3d30fafbced8f",
+            "location": {
+                "address": "Nieuwe Beestenmarkt 32",
+                "country": "NL",
+                "formatted_address": "Nieuwe Beestenmarkt 32, 2312 CH Leiden",
+                "locality": "Leiden",
+                "postcode": "2312 CH",
+                "region": "South Holland"
+            },
+            "name": "Rockcafé Lazaru's",
+            "related_places": {},
+            "timezone": "Europe/Amsterdam"
+        },
+        {
+            "fsq_id": "4b9bd03bf964a520462836e3",
+            "categories": [
+                {
+                    "id": 13352,
+                    "name": "Thai Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/thai_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 275,
+            "geocodes": {
+                "main": {
+                    "latitude": 52.16493,
+                    "longitude": 4.484305
+                },
+                "roof": {
+                    "latitude": 52.16493,
+                    "longitude": 4.484305
+                }
+            },
+            "link": "/v3/places/4b9bd03bf964a520462836e3",
+            "location": {
+                "address": "Stationsweg 23",
+                "country": "NL",
+                "cross_street": "",
+                "formatted_address": "Stationsweg 23, 2312 AS Leiden",
+                "locality": "Leiden",
+                "neighborhood": [
+                    "Stationskwartier"
+                ],
+                "postcode": "2312 AS",
+                "region": "South Holland"
+            },
+            "name": "Thais Restaurant Sisaket",
+            "related_places": {},
+            "timezone": "Europe/Amsterdam"
+        },
+        {
+            "fsq_id": "4cd1ed9b7b6854814fe4c9f8",
+            "categories": [
+                {
+                    "id": 10027,
+                    "name": "Museum",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 224,
+            "geocodes": {
+                "main": {
+                    "latitude": 52.164032,
+                    "longitude": 4.486481
+                },
+                "roof": {
+                    "latitude": 52.164032,
+                    "longitude": 4.486481
+                }
+            },
+            "link": "/v3/places/4cd1ed9b7b6854814fe4c9f8",
+            "location": {
+                "address": "2E Binnenvestgracht 1",
+                "country": "NL",
+                "formatted_address": "2E Binnenvestgracht 1, 2312 BZ Leiden",
+                "locality": "Leiden",
+                "postcode": "2312 BZ",
+                "region": "South Holland"
+            },
+            "name": "Molenmuseum de Valk",
+            "related_places": {},
+            "timezone": "Europe/Amsterdam"
+        },
+        {
+            "fsq_id": "4c03ecb69a7920a17884d079",
+            "categories": [
+                {
+                    "id": 13072,
+                    "name": "Asian Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13145,
+                    "name": "Fast Food Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 349,
+            "geocodes": {
+                "main": {
+                    "latitude": 52.163395,
+                    "longitude": 4.485867
+                },
+                "roof": {
+                    "latitude": 52.163395,
+                    "longitude": 4.485867
+                }
+            },
+            "link": "/v3/places/4c03ecb69a7920a17884d079",
+            "location": {
+                "address": "Nieuwe Beestenmarkt 22",
+                "country": "NL",
+                "cross_street": "",
+                "formatted_address": "Nieuwe Beestenmarkt 22, 2312 CH Leiden",
+                "locality": "Leiden",
+                "postcode": "2312 CH",
+                "region": "South Holland"
+            },
+            "name": "Moksi",
+            "related_places": {},
+            "timezone": "Europe/Amsterdam"
+        },
+        {
+            "fsq_id": "4aeda135f964a520eecd21e3",
+            "categories": [
+                {
+                    "id": 13334,
+                    "name": "Sandwich Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 388,
+            "geocodes": {
+                "main": {
+                    "latitude": 52.166941,
+                    "longitude": 4.481499
+                },
+                "roof": {
+                    "latitude": 52.166941,
+                    "longitude": 4.481499
+                }
+            },
+            "link": "/v3/places/4aeda135f964a520eecd21e3",
+            "location": {
+                "address": "Bargelaan 8",
+                "country": "NL",
+                "formatted_address": "Bargelaan 8, 2333 CT Leiden",
+                "locality": "Leiden",
+                "postcode": "2333 CT",
+                "region": "South Holland"
+            },
+            "name": "Lebkov & Sons",
+            "related_places": {},
+            "timezone": "Europe/Amsterdam"
+        },
+        {
+            "fsq_id": "4b53243ef964a520229027e3",
+            "categories": [
+                {
+                    "id": 10039,
+                    "name": "Music Venue",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 10043,
+                    "name": "Theater",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 469,
+            "geocodes": {
+                "main": {
+                    "latitude": 52.162299,
+                    "longitude": 4.48913
+                },
+                "roof": {
+                    "latitude": 52.162299,
+                    "longitude": 4.48913
+                }
+            },
+            "link": "/v3/places/4b53243ef964a520229027e3",
+            "location": {
+                "address": "Oude Vest 43",
+                "country": "NL",
+                "formatted_address": "Oude Vest 43, 2312 XS Leiden",
+                "locality": "Leiden",
+                "postcode": "2312 XS",
+                "region": "South Holland"
+            },
+            "name": "Leidse Schouwburg",
+            "related_places": {},
+            "timezone": "Europe/Amsterdam"
+        },
+        {
+            "fsq_id": "547a431c498ea9baa8f5bc54",
+            "categories": [
+                {
+                    "id": 10037,
+                    "name": "Concert Hall",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 10039,
+                    "name": "Music Venue",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 384,
+            "geocodes": {
+                "main": {
+                    "latitude": 52.163108,
+                    "longitude": 4.488465
+                },
+                "roof": {
+                    "latitude": 52.163108,
+                    "longitude": 4.488465
+                }
+            },
+            "link": "/v3/places/547a431c498ea9baa8f5bc54",
+            "location": {
+                "address": "Marktsteeg 8",
+                "country": "NL",
+                "cross_street": "",
+                "formatted_address": "Marktsteeg 8, 2312 CS Leiden",
+                "locality": "Leiden",
+                "postcode": "2312 CS",
+                "region": "South Holland"
+            },
+            "name": "Gebr de Nobel",
+            "related_places": {},
+            "timezone": "Europe/Amsterdam"
+        },
+        {
+            "fsq_id": "4b9a64d4f964a5208fb135e3",
+            "categories": [
+                {
+                    "id": 13034,
+                    "name": "Café",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13072,
+                    "name": "Asian Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13315,
+                    "name": "Noodle Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/ramen_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 286,
+            "geocodes": {
+                "main": {
+                    "latitude": 52.164667,
+                    "longitude": 4.483861
+                },
+                "roof": {
+                    "latitude": 52.164667,
+                    "longitude": 4.483861
+                }
+            },
+            "link": "/v3/places/4b9a64d4f964a5208fb135e3",
+            "location": {
+                "address": "Stationsweg 22",
+                "country": "NL",
+                "formatted_address": "Stationsweg 22, 2312 AV Leiden",
+                "locality": "Leiden",
+                "neighborhood": [
+                    "Stationskwartier"
+                ],
+                "postcode": "2312 AV",
+                "region": "South Holland"
+            },
+            "name": "Eazie",
+            "related_places": {},
+            "timezone": "Europe/Amsterdam"
+        },
+        {
+            "fsq_id": "5908837675cb8c48182091a7",
+            "categories": [
+                {
+                    "id": 13276,
+                    "name": "Sushi Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 271,
+            "geocodes": {
+                "main": {
+                    "latitude": 52.164832,
+                    "longitude": 4.484325
+                },
+                "roof": {
+                    "latitude": 52.164832,
+                    "longitude": 4.484325
+                }
+            },
+            "link": "/v3/places/5908837675cb8c48182091a7",
+            "location": {
+                "address": "Stationsweg 19",
+                "country": "NL",
+                "cross_street": "",
+                "formatted_address": "Stationsweg 19, 2312 AS Leiden",
+                "locality": "Leiden",
+                "postcode": "2312 AS",
+                "region": "South Holland"
+            },
+            "name": "Yuniki - AYCE Sushi & Grill",
+            "related_places": {},
+            "timezone": "Europe/Amsterdam"
+        }
+    ],
+    "context": {
+        "geo_bounds": {
+            "circle": {
+                "center": {
+                    "latitude": 52.1665,
+                    "longitude": 4.487
+                },
+                "radius": 3000
+            }
+        }
+    }
+}
